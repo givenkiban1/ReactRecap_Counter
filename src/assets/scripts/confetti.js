@@ -1,3 +1,8 @@
+// obtained from a tutorial linked below
+// https://dev.to/official_fire/creating-a-confetti-effect-in-5-minutes-16h3
+
+// modified code turning it from an IIFE into a ES6 Module. with the help of phind.com
+
 let confetti = {
 	maxCount: 150,		//set max confetti count
 	speed: 2,			//set the particle animation speed
